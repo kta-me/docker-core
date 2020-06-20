@@ -40,8 +40,8 @@ username: test  or  root
 password: 111
 
 ### General Information 
-It will be started `index.php` from folder `www/test/public`.
-If you would like to run project from folder `www/test` just edit `.htaccess` file in folder `www/test`.
+It will be started `index.php` from folder `www/test/src/public`.
+If you would like to run project from folder `www/test/src` just edit `.htaccess` file in folder `www/test/src`.
 
 ## Redis
 
