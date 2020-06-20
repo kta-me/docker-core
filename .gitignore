@@ -1,0 +1,10 @@
+.idea
+/other
+/www/test/local-database/mysql
+!/www/test/local-database/mysql/.gitkeep
+/docker-core/logs/apache2
+!/docker-core/logs/apache2/.gitkeep
+/docker-core/logs/mysql
+!/docker-core/logs/mysql/.gitkeep
+
+

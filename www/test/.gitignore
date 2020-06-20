@@ -1,0 +1,5 @@
+.idea
+/local-database/*
+/src/*
+!/local-database/.gitkeep
+!/src/.gitkeep
