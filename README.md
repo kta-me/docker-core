@@ -8,11 +8,13 @@ An environment built using Docker Compose. It consists of the following:
 * MySQL
 * phpMyAdmin
 * Redis
+* xDebug
 
 You can chose one of several different PHP versions:
 
 * 7.2.x
 * 7.4.x
+* 8.0.3
  
 ##  Installation
  
